@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+h3 {
+  font-family: sans-serif;
+  color: #64a1c9;
+  font-variant: small-caps; }
+
+hr {
+  border: dotted #a8cbff 6px;
+  border-bottom: none;
+  width: 30%;
+  margin: 5% auto; }
+
+.title {
+  font-family: 'Montserrat-Bold', sans-serif;
+  color: #64a1c9;
+  font-variant: small-caps;
+  padding-top: 5%;
+  text-align: center;
+  font-size: 62px; }
+
+/*Header section */
+.background-blue {
+  background-color: #245d83;
+  background: linear-gradient(145deg, #0d47a1, #42a5f5);
+  color: #fff; }
+
+#intro {
+  padding: 100px; }
+
+#typing {
+  font-family: sans-serif; }
+
+#line {
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  height: 0px;
+  border: none;
+  border-top: 4px solid #ababab; }
+
+/* Section: Profile */
+.background-white {
+  background-color: white; }
+
+#profilepic {
+  width: 18rem;
+  height: 18rem;
+  border-radius: 100%; }
+
+#details {
+  text-align: right; }
+
+li {
+  display: inline-block;
+  padding-right: 10px; }
+
+/* Section: Experiences */
+.schooltext {
+  text-align: justify;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif; }
+
+#experiences {
+  color: white; }
+
+/* Footer */
+.main-footer {
+  color: #FFFFFF;
+  font-size: 18px; }
+
+a:link {
+  color: #FFFFFF;
+  text-decoration: none; }
+
+a:visited {
+  color: lightblue; }
+
+a:hover {
+  color: #a8cbff; }
+
+a:active {
+  color: #a8cbff; }
+
+.main-footer p {
+  color: white;
+  margin-bottom: 0px;
+  font-family: M; }
+
+/* Media Query */
+@media only screen and (max-width: 735px) {
+  #typing {
+    display: none; } }
