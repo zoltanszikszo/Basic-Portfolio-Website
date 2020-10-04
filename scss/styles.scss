@@ -124,7 +124,10 @@ a:active {
     #typing{
         display: none;
     }
-    #about{
+}
+
+@media only screen and (max-width: 575px){
+    #aboutme{
         text-align: center;
     }
     #details{
