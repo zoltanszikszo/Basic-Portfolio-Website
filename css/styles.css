@@ -55,6 +55,9 @@ hr {
   height: 18rem;
   border-radius: 100%; }
 
+#aboutme {
+  text-align: left; }
+
 #details {
   text-align: right; }
 
