@@ -7,7 +7,12 @@
 h3 {
   font-family: sans-serif;
   color: #64a1c9;
-  font-variant: small-caps; }
+  font-size: 24px; }
+
+h5 {
+  font-family: sans-serif;
+  color: #64a1c9;
+  font-size: 12px; }
 
 hr {
   border: dotted #a8cbff 6px;
