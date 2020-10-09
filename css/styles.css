@@ -56,7 +56,8 @@ hr {
   background-color: white; }
 
 #profilepic {
-  width: 14rem; }
+  width: 20rem;
+  height: 20rem; }
 
 #aboutme {
   text-align: justify;
