@@ -55,11 +55,11 @@ hr {
 .background-white {
   background-color: white; }
 
-#profilepic {
-  width: 18rem;
-  height: 18rem;
-  border-radius: 100%; }
-
+/*#profilepic{
+    width: 18rem;
+    height: 18rem;
+    border-radius: 100%;
+}*/
 #aboutme {
   text-align: justify;
   font-size: 16px;
