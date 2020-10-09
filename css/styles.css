@@ -17,14 +17,14 @@ h5 {
 hr {
   border: dotted #a8cbff 6px;
   border-bottom: none;
-  width: 40%;
-  margin: 10px auto 40px auto; }
+  width: 35%;
+  margin: 10px auto 50px auto; }
 
 .title {
   font-family: 'Montserrat-Bold', sans-serif;
   color: #64a1c9;
   font-variant: small-caps;
-  padding-top: 5%;
+  padding-top: 10px;
   text-align: center;
   font-size: 62px; }
 
@@ -105,9 +105,3 @@ a:active {
 @media only screen and (max-width: 735px) {
   #typing {
     display: none; } }
-
-@media only screen and (max-width: 576px) {
-  #aboutme {
-    text-align: center; }
-  #details {
-    text-align: center; } }
