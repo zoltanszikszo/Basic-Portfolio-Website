@@ -3,7 +3,7 @@
 let typing = document.getElementById('typing');
 
 let typewriter = new Typewriter(typing, {
-    loop: true
+    loop: false
 });
 
 typewriter.typeString('Software Engineering Student')
