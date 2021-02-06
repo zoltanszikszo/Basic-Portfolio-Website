@@ -23,6 +23,7 @@ hr {
 
 .title {
   color: #ffffff;
+  text-shadow: #ababab;
   font-variant: small-caps;
   padding-top: 10px;
   text-align: center;
@@ -78,6 +79,10 @@ li {
 
 #experiences {
   color: white; }
+
+/* Projects */
+figure img {
+  border: 2px solid black; }
 
 /* Footer */
 .main-footer {
