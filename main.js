@@ -7,3 +7,4 @@ let typewriter = new Typewriter(typing, {
 });
 
 typewriter.typeString('Software Engineering Student')
+    .start();
