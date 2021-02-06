@@ -7,5 +7,5 @@ let typewriter = new Typewriter(typing, {
     cursor: ""
 });
 
-typewriter.typeString('Software Engineering Student')
+typewriter.typeString('Software Developer Student')
     .start();
