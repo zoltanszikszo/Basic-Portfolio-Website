@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -10,7 +11,7 @@ h3 {
   font-size: 42px; }
 
 h5 {
-  font-family: sans-serif;
+  font-family: 'Roboto';
   color: #64a1c9;
   font-size: 16px; }
 
@@ -21,7 +22,7 @@ hr {
   margin: 10px auto 50px auto; }
 
 .title {
-  font-family: 'Montserrat-Bold', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #64a1c9;
   font-variant: small-caps;
   padding-top: 10px;
@@ -54,6 +55,10 @@ hr {
 /* Section: Profile */
 .background-white {
   background-color: white; }
+
+#profile {
+  padding-top: 100px;
+  padding-bottom: 100px; }
 
 #profilepic {
   width: 10rem; }
