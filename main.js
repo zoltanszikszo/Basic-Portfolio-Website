@@ -4,7 +4,7 @@ let typing = document.getElementById('typing');
 
 let typewriter = new Typewriter(typing, {
     loop: false,
-    cursor: false
+    cursor: ""
 });
 
 typewriter.typeString('Software Engineering Student')
