@@ -39,7 +39,7 @@ header{
 
 /* Section: Profile */
 
-#profile{
+.profile{
     height: 100vh;
     display: grid;
     align-content: center;
@@ -48,7 +48,7 @@ header{
     padding: 20px;
 }
 
-#profilepic{
+.profilepic{
     width: 35rem;
     border-radius: 50px;
     filter: drop-shadow(0 0 0.4rem black);
@@ -142,7 +142,7 @@ a:hover, a:active, a:visited{
 /* Media Query */
 
 @media only screen and (max-width: 735px){
-    #profilepic{
+    .profilepic{
         width: 20rem;
     }
 
