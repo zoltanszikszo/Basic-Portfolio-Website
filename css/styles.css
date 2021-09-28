@@ -30,6 +30,11 @@ header {
   justify-content: center;
 }
 
+.zps-logo {
+  width: 100%;
+  height: auto;
+}
+
 /* Section: Profile */
 #profile {
   height: 100vh;
@@ -128,10 +133,6 @@ a:hover, a:active, a:visited {
 
 /* Media Query */
 @media only screen and (max-width: 735px) {
-  #typing {
-    display: none;
-  }
-
   #profilepic {
     width: 20rem;
   }
