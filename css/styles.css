@@ -111,6 +111,11 @@ a:hover, a:active, a:visited {
   color: #91D6D3;
 }
 
+.hh a:link {
+  color: #3b2ee7;
+  text-decoration: none;
+}
+
 .hh a:hover, .hh a:active, .hh a:visited {
   color: #5347f5;
 }
