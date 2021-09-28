@@ -33,6 +33,7 @@ header {
 .zps-logo {
   width: 100%;
   height: auto;
+  min-width: 700px;
 }
 
 /* Section: Profile */
